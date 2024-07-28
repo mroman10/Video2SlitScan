@@ -15,6 +15,8 @@ This script builds on the [slit scan example] in the video library, with the fol
 Example of a slit scan image created with this script:
 ![slitscan image with cars](https://github.com/mroman10/Video2SlitScan/blob/master/cars_example_long.png)
 
+Note, for best results shoot video at a high frame rate (120+ FPS, used in slow motion mode) with the camera remaining still (not handheld). The video that was used to create the image above was too large to upload, so only a small clip is included.
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Processing]: <https://processing.org/>
