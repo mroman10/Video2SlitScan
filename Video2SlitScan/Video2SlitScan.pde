@@ -1,7 +1,8 @@
 /**
  * Slit-Scan from Video Script
  * By Maya Roman, based on a script by Golan Levin
- Requires .mov video file to be in the script's data folder, will select a column in the image and will
+ Requires .mov video file to be in the script's data folder, will select a column in the image and create a slit
+ scan image based on the input settings defined
  */
 
 import processing.video.*;
