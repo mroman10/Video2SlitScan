@@ -13,7 +13,7 @@ This script builds on the [slit scan example] in the video library, with the fol
 -  Includes the ability to save the image
 
 Example of a slit scan image created with this script:
-![slitscan image with cars](https://github.com/mroman10/Video2SlitScan/blob/master/Video2SlitScan/cars_example_long.png)
+![slitscan image with cars](https://github.com/mroman10/Video2SlitScan/blob/master/cars_example_long.png)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
