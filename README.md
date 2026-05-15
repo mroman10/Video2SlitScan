@@ -1,6 +1,6 @@
 # Video2SlitScan
 *Update May 14th, 2026*
-I made a new version of the script that runs in Matlab, which seems to run a bit faster than the Processing script. This script similarly lets you select a video from the source folder, saves the image in a folder, and define the following variables:
+I made a new version of the script that runs in Matlab, which seems to run a bit faster than the Processing script. This script similarly lets you select a video from the source folder, save the image in a folder, and define the following variables:
 - image length
 - slice column (center or choose after a preview from the first frame)
 - direction in which the image is plotted
